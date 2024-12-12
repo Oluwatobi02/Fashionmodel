@@ -2,3 +2,4 @@ venv/
 venv
 fashion/
 fashion
+.env

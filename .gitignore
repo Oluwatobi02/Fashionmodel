@@ -3,3 +3,5 @@ venv
 fashion/
 fashion
 .env
+.ipynb_checkpoints/
+.ipynb_checkpoints
